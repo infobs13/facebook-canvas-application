@@ -217,11 +217,6 @@ document.getElementById('output').innerHTML += data_html;
 
 </div>						              
 
-<!--
-		<a href="https://facebook.com/akhee13" target=_blank><img src="./images/facebook.jpg" width="50" height="50
-		"></a><br></br>
-		<a href="https://www.facebook.com/manikanta.kondeti" target=_blank><strong>INSPIRATION </strong></a><br></br>
-	</div> 			-->
 	</div>
 </div>
 </div>
